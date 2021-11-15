@@ -6,7 +6,7 @@
 - I'm currently learning alot of really cool stuff. 
 - I'm looking to collaborate with content creators and developers.
 - Goals for 2022 and beyond: Create & Colllaborate on more stuff with more people.
-- Fun fact: I don't play any musical instruments and dance terribly.
+
 
 ### Conect with me:
 
@@ -30,6 +30,11 @@
 <br />
 <br />
 
+---
+
+### Latest Blog Posts
+<!-- HASHNODE:START --->
+<!-- HASHNODE:END -->
 
 [blog]: https://qatestblog.hashnode.dev
 [twitter]: https://twitter.com/4EVER1CONIC

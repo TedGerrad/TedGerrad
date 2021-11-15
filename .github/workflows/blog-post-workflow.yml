@@ -14,5 +14,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "HASHNODE"
-          commit_message: "Updated readme with the latest Hashode Blog data"
+          commit_message: "Updated readme with the latest Hashnode Blog data"
           feed_list: "https://qatestblog.hashnode.dev/rss.xml"

@@ -34,6 +34,11 @@
 
 ### Latest Blog Posts
 <!-- HASHNODE:START --->
+- [QA Tester Beginner Series: A beginners guide to JavaScript Automation with Cypress &lpar;PART IV&rpar;- Page Object Design Pattern and Dashboard Services](https://qatestblog.hashnode.dev/qa-tester-beginner-series-a-beginners-guide-to-javascript-automation-with-cypress-part-iv-page-object-design-pattern-and-dashboard-services)
+- [QA Tester Beginner Series: A beginners guide to JavaScript Automation with Cypress &lpar;PART III&rpar;- Hooks, Fixtures and Custom Commands](https://qatestblog.hashnode.dev/qa-tester-beginner-series-a-beginners-guide-to-javascript-automation-with-cypress-part-iii-hooks-fixtures-and-custom-commands)
+- [QA Tester Beginner Series: A beginners guide to JavaScript Automation with Cypress &lpar;PART II&rpar;- Locators And UI Web Elements in Cypress](https://qatestblog.hashnode.dev/qa-tester-beginner-series-a-beginners-guide-to-javascript-automation-with-cypress-part-ii-locators-and-ui-web-elements-in-cypress)
+- [QA Tester Beginner Series: A beginners guide to JavaScript Automation with Cypress](https://qatestblog.hashnode.dev/qa-tester-beginner-series-a-beginners-guide-to-javascript-automation-with-cypress)
+- [QA Tester Beginner Series: A beginner&#39;s guide to Page Object Model &lpar;POM&rpar; and Page Factory](https://qatestblog.hashnode.dev/qa-tester-beginner-series-a-beginners-guide-to-page-object-model-pom-and-page-factory)
 <!-- HASHNODE:END -->
 
 [blog]: https://qatestblog.hashnode.dev
